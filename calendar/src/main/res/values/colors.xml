@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#ffffff</color>
+    <color name="selected_circle">#084C91</color>
+    <color name="range">#99ccff</color>
+    <color name="week_indicator">#2066AD</color>
+</resources>
